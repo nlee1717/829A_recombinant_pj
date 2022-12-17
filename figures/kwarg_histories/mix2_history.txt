@@ -1,0 +1,135 @@
+Mutation of site 2692 in sequence hCoV-19/South_Africa/NCV1659/2020|EPI_ISL_13370858|2020-11-20
+Mutation of site 3241 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 3695 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 5312 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 5924 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 5927 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 6539 in sequence hCoV-19/India/TN-ICMR-INSACOG-SPHL-2154/2021|EPI_ISL_15251367|2021-04-15
+Mutation of site 6723 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 8529 in sequence hCoV-19/Wuhan/HB-WH2-164/2020|EPI_ISL_454931|2020-02-10
+Mutation of site 9534 in sequence hCoV-19/Wuhan/HB-WH2-158/2020|EPI_ISL_454926|2020-02-28
+Mutation of site 10138 in sequence hCoV-19/India/TN-ICMR-INSACOG-SPHL-2154/2021|EPI_ISL_15251367|2021-04-15
+Mutation of site 10789 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 13339 in sequence hCoV-19/India/TN-ICMR-INSACOG-SPHL-2154/2021|EPI_ISL_15251367|2021-04-15
+Mutation of site 17423 in sequence hCoV-19/Wuhan/HB-WH2-158/2020|EPI_ISL_454926|2020-02-28
+Mutation of site 17690 in sequence hCoV-19/Wuhan/HB-WH2-164/2020|EPI_ISL_454931|2020-02-10
+Mutation of site 17999 in sequence hCoV-19/South_Africa/Tygerberg_693/2020|EPI_ISL_1502131|2020-11-20
+Mutation of site 20233 in sequence hCoV-19/South_Africa/Tygerberg_693/2020|EPI_ISL_1502131|2020-11-20
+Mutation of site 21805 in sequence hCoV-19/India/TN-ICMR-INSACOG-SPHL-2154/2021|EPI_ISL_15251367|2021-04-15
+Mutation of site 21829 in sequence hCoV-19/India/TN-ICMR-INSACOG-SPHL-2154/2021|EPI_ISL_15251367|2021-04-15
+Mutation of site 21987 in sequence hCoV-19/India/TN-ICMR-INSACOG-SPHL-2154/2021|EPI_ISL_15251367|2021-04-15
+Mutation of site 24410 in sequence hCoV-19/India/TN-ICMR-INSACOG-SPHL-2154/2021|EPI_ISL_15251367|2021-04-15
+Mutation of site 25382 in sequence hCoV-19/Wuhan/HB-WH2-164/2020|EPI_ISL_454931|2020-02-10
+Mutation of site 25611 in sequence hCoV-19/Wuhan/HB-WH2-164/2020|EPI_ISL_454931|2020-02-10
+Mutation of site 27008 in sequence hCoV-19/South_Africa/Tygerberg_693/2020|EPI_ISL_1502131|2020-11-20
+Mutation of site 28249 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 28254 in sequence hCoV-19/South_Africa/Tygerberg_693/2020|EPI_ISL_1502131|2020-11-20
+Mutation of site 28374 in sequence hCoV-19/South_Africa/Tygerberg_693/2020|EPI_ISL_1502131|2020-11-20
+Mutation of site 28854 in sequence hCoV-19/Wuhan/HB-WH2-158/2020|EPI_ISL_454926|2020-02-28
+Mutation of site 29688 in sequence hCoV-19/South_Africa/Tygerberg_693/2020|EPI_ISL_1502131|2020-11-20
+Coalescing sequences hCoV-19/Wuhan/Hu-1/2019|EPI_ISL_402125|2019-12-31 and hCoV-19/Wuhan/HB-WH2-158/2020|EPI_ISL_454926|2020-02-28
+Coalescing sequences hCoV-19/Wuhan/Hu-1/2019|EPI_ISL_402125|2019-12-31 and hCoV-19/Wuhan/HB-WH2-164/2020|EPI_ISL_454931|2020-02-10
+Coalescing sequences hCoV-19/South_Africa/NCV1659/2020|EPI_ISL_13370858|2020-11-20 and hCoV-19/South_Africa/Tygerberg_693/2020|EPI_ISL_1502131|2020-11-20
+Mutation of site 174 in sequence hCoV-19/South_Africa/NCV1659/2020|EPI_ISL_13370858|2020-11-20
+Mutation of site 1059 in sequence hCoV-19/South_Africa/NCV1659/2020|EPI_ISL_13370858|2020-11-20
+Mutation of site 5230 in sequence hCoV-19/South_Africa/NCV1659/2020|EPI_ISL_13370858|2020-11-20
+Mutation of site 10323 in sequence hCoV-19/South_Africa/NCV1659/2020|EPI_ISL_13370858|2020-11-20
+Mutation of site 21801 in sequence hCoV-19/South_Africa/NCV1659/2020|EPI_ISL_13370858|2020-11-20
+Mutation of site 22206 in sequence hCoV-19/South_Africa/NCV1659/2020|EPI_ISL_13370858|2020-11-20
+Mutation of site 23012 in sequence hCoV-19/South_Africa/NCV1659/2020|EPI_ISL_13370858|2020-11-20
+Mutation of site 25563 in sequence hCoV-19/South_Africa/NCV1659/2020|EPI_ISL_13370858|2020-11-20
+Mutation of site 25904 in sequence hCoV-19/South_Africa/NCV1659/2020|EPI_ISL_13370858|2020-11-20
+Mutation of site 26456 in sequence hCoV-19/South_Africa/NCV1659/2020|EPI_ISL_13370858|2020-11-20
+Mutation of site 28887 in sequence hCoV-19/South_Africa/NCV1659/2020|EPI_ISL_13370858|2020-11-20
+---->Recombination in sequence hCoV-19/South_Africa/NCV1659/2020|EPI_ISL_13370858|2020-11-20 after site 23663; suffix is new sequence 10
+---->Recombination in sequence 10 after site 23853; suffix is new sequence 11
+Coalescing sequences hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06 and 10
+Mutation of site 23664 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Coalescing sequences hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06 and hCoV-19/England/MILK-2D512AD/2021|EPI_ISL_7556164|2021-12-06
+Mutation of site 2832 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 5386 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 8393 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 10029 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 10449 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 11537 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 13195 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 15240 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 18163 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 21762 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 21846 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 22578 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 22673 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 22674 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 22679 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 22686 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 22992 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 23013 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 23040 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 23048 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 23055 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 23075 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 23202 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 23525 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 23599 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 23854 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 23948 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 24130 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 24424 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 24469 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 24503 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 25000 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 25584 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 26270 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 26530 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 26577 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 26709 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 27259 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 27807 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 28271 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 28311 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 28882 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 28883 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Coalescing sequences hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15 and hCoV-19/India/TN-ICMR-INSACOG-SPHL-2154/2021|EPI_ISL_15251367|2021-04-15
+Mutation of site 210 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 1191 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 1267 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 5184 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 9891 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 11418 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 12946 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 15451 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 16466 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 20262 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 20320 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 21618 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 22917 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 24745 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 25469 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 26767 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 27638 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 27739 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 27752 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 28461 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 29402 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 29427 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 29742 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+---->Recurrent mutation at site 22995 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 22995 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+---->Recombination in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15 after site 28880; suffix is new sequence 12
+Coalescing sequences hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06 and 12
+Mutation of site 28881 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Coalescing sequences hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15 and 11
+Mutation of site 28253 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+---->Recombination in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15 after site 23402; suffix is new sequence 13
+Coalescing sequences hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06 and 13
+Mutation of site 23604 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Coalescing sequences hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06 and hCoV-19/South_Africa/NCV1659/2020|EPI_ISL_13370858|2020-11-20
+Mutation of site 22813 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 23063 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 23403 in sequence hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Coalescing sequences hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15 and hCoV-19/England/MILK-2D5154A/2021|EPI_ISL_7556033|2021-12-06
+Mutation of site 241 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 3037 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Mutation of site 14408 in sequence hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Coalescing sequences hCoV-19/Wuhan/Hu-1/2019|EPI_ISL_402125|2019-12-31 and hCoV-19/India/TN-ICMR-MCL-21-3466-4327-Iso/2021|EPI_ISL_13857926|2021-04-15
+Total: 0 sequencing errors, 1 recurrent mutations, 4 recombinations.

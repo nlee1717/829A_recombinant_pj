@@ -1,0 +1,348 @@
+Mutation of site 25 in sequence N3
+Mutation of site 488 in sequence N9
+Mutation of site 556 in sequence O13
+Mutation of site 832 in sequence N22
+Mutation of site 835 in sequence O13
+Mutation of site 1048 in sequence N13
+Mutation of site 1122 in sequence N21
+Mutation of site 1306 in sequence O10
+Mutation of site 1380 in sequence O25
+Mutation of site 1738 in sequence N22
+Mutation of site 1762 in sequence O9
+Mutation of site 2094 in sequence O25
+Mutation of site 2155 in sequence O8
+Mutation of site 2227 in sequence O13
+Mutation of site 2389 in sequence N11
+Mutation of site 2453 in sequence O2
+Mutation of site 2509 in sequence N25
+Mutation of site 2536 in sequence O22
+Mutation of site 2560 in sequence N13
+Mutation of site 2962 in sequence O7
+Mutation of site 3731 in sequence N21
+Mutation of site 3885 in sequence O10
+Mutation of site 4158 in sequence O18
+Mutation of site 4294 in sequence O12
+Mutation of site 4548 in sequence O12
+Mutation of site 4595 in sequence O18
+Mutation of site 4634 in sequence O15
+Mutation of site 4698 in sequence O9
+Mutation of site 5230 in sequence O10
+Mutation of site 5250 in sequence O23
+Mutation of site 5416 in sequence N17
+Mutation of site 5539 in sequence N25
+Mutation of site 6327 in sequence N2
+Mutation of site 6408 in sequence N7
+Mutation of site 6706 in sequence O23
+Mutation of site 6843 in sequence O23
+Mutation of site 6896 in sequence O6
+Mutation of site 7312 in sequence N16
+Mutation of site 8491 in sequence O7
+Mutation of site 8512 in sequence O2
+Mutation of site 8982 in sequence O8
+Mutation of site 9802 in sequence O20
+Mutation of site 10138 in sequence N3
+Mutation of site 10341 in sequence O10
+Mutation of site 10582 in sequence N13
+Mutation of site 11121 in sequence O23
+Mutation of site 11450 in sequence O10
+Mutation of site 11812 in sequence O17
+Mutation of site 12106 in sequence N11
+Mutation of site 12115 in sequence O9
+Mutation of site 12138 in sequence O10
+Mutation of site 12357 in sequence O20
+Mutation of site 13123 in sequence N9
+Mutation of site 13168 in sequence O18
+Mutation of site 13258 in sequence N7
+Mutation of site 13339 in sequence N3
+Mutation of site 13858 in sequence O3
+Mutation of site 14599 in sequence O9
+Mutation of site 14955 in sequence N22
+Mutation of site 15372 in sequence O3
+Mutation of site 15486 in sequence O8
+Mutation of site 15567 in sequence N19
+Mutation of site 15951 in sequence O14
+Mutation of site 16092 in sequence O10
+Mutation of site 16236 in sequence O6
+Mutation of site 16293 in sequence O17
+Mutation of site 16591 in sequence O13
+Mutation of site 16920 in sequence O17
+Mutation of site 17331 in sequence N5
+Mutation of site 17457 in sequence O18
+Mutation of site 18100 in sequence O17
+Mutation of site 18171 in sequence O2
+Mutation of site 18255 in sequence O15
+Mutation of site 18546 in sequence O18
+Mutation of site 18634 in sequence O15
+Mutation of site 18648 in sequence O14
+Mutation of site 18651 in sequence O9
+Mutation of site 18887 in sequence O2
+Mutation of site 19164 in sequence O25
+Mutation of site 19215 in sequence O2
+Mutation of site 19290 in sequence N19
+Mutation of site 19419 in sequence N22
+Mutation of site 19551 in sequence N16
+Mutation of site 19687 in sequence N22
+Mutation of site 19779 in sequence O10
+Mutation of site 19862 in sequence O12
+Mutation of site 20476 in sequence O2
+Mutation of site 20930 in sequence O25
+Mutation of site 21120 in sequence N22
+Mutation of site 21255 in sequence N22
+Mutation of site 21570 in sequence O13
+Mutation of site 21624 in sequence N22
+Mutation of site 21659 in sequence O13
+Mutation of site 21660 in sequence O5
+Mutation of site 21914 in sequence O3
+Mutation of site 22032 in sequence O10
+Mutation of site 22094 in sequence N13
+Mutation of site 22801 in sequence N1
+Mutation of site 23064 in sequence O10
+Mutation of site 23248 in sequence O10
+Mutation of site 23277 in sequence O13
+Mutation of site 23405 in sequence O3
+Mutation of site 24049 in sequence O20
+Mutation of site 24781 in sequence N7
+Mutation of site 24794 in sequence O19
+Mutation of site 24802 in sequence O8
+Mutation of site 25003 in sequence N7
+Mutation of site 25012 in sequence O3
+Mutation of site 25096 in sequence O25
+Mutation of site 25269 in sequence O18
+Mutation of site 25273 in sequence O3
+Mutation of site 25533 in sequence O8
+Mutation of site 25552 in sequence N2
+Mutation of site 25555 in sequence O18
+Mutation of site 25562 in sequence N10
+Mutation of site 25644 in sequence O13
+Mutation of site 25720 in sequence N19
+Mutation of site 26104 in sequence N13
+Mutation of site 26176 in sequence O7
+Mutation of site 26195 in sequence O13
+Mutation of site 26727 in sequence O23
+Mutation of site 26748 in sequence O2
+Mutation of site 26927 in sequence O10
+Mutation of site 26985 in sequence O20
+Mutation of site 27206 in sequence O10
+Mutation of site 27500 in sequence O9
+Mutation of site 27600 in sequence O20
+Mutation of site 27703 in sequence N17
+Mutation of site 27737 in sequence O10
+Mutation of site 27798 in sequence O23
+Mutation of site 27852 in sequence O9
+Mutation of site 27996 in sequence O10
+Mutation of site 28095 in sequence O25
+Mutation of site 28166 in sequence O13
+Mutation of site 28523 in sequence O10
+Mutation of site 28869 in sequence O10
+Mutation of site 29026 in sequence O10
+Mutation of site 29147 in sequence N5
+Mutation of site 29375 in sequence O18
+Mutation of site 29648 in sequence N21
+Mutation of site 29774 in sequence N23
+Coalescing sequences O5 and O14
+Coalescing sequences O12 and O15
+Coalescing sequences O6 and O18
+Coalescing sequences O8 and O19
+Coalescing sequences O9 and O20
+Coalescing sequences N17 and N7
+Coalescing sequences N3 and N8
+Coalescing sequences N4 and N10
+Coalescing sequences N6 and N11
+Coalescing sequences N22 and N14
+Coalescing sequences N1 and N16
+Coalescing sequences N3 and N19
+Coalescing sequences N2 and N21
+Coalescing sequences N22 and N24
+Coalescing sequences N22 and N25
+Mutation of site 5584 in sequence N22
+Mutation of site 6751 in sequence O8
+Mutation of site 9203 in sequence N6
+Mutation of site 9678 in sequence N6
+Mutation of site 11005 in sequence N6
+Mutation of site 14874 in sequence O6
+Mutation of site 17385 in sequence O8
+Mutation of site 17496 in sequence N6
+Mutation of site 19813 in sequence O8
+Mutation of site 21792 in sequence N6
+Mutation of site 28099 in sequence O5
+Mutation of site 28253 in sequence N6
+Coalescing sequences O6 and O7
+Coalescing sequences O6 and O8
+Coalescing sequences O5 and O22
+Coalescing sequences N9 and N2
+---->Recurrent mutation at site 21987 in sequence O12
+Coalescing sequences N20 and N23
+Coalescing sequences N12 and N18
+Coalescing sequences O4 and O10
+Mutation of site 1719 in sequence N12
+Mutation of site 6250 in sequence N12
+Mutation of site 18086 in sequence N12
+Coalescing sequences N1 and N17
+Coalescing sequences N20 and N5
+Coalescing sequences N20 and N4
+Mutation of site 18176 in sequence N20
+---->Recurrent mutation at site 21846 in sequence N1
+Coalescing sequences N1 and N13
+Mutation of site 4181 in sequence N1
+Mutation of site 6402 in sequence N1
+Mutation of site 8986 in sequence N1
+Mutation of site 9053 in sequence N1
+Mutation of site 11332 in sequence N1
+Mutation of site 19220 in sequence N1
+Mutation of site 28916 in sequence N1
+---->Recombination in sequence O6 after site 24862; suffix is new sequence 51
+Coalescing sequences O13 and 51
+---->Sequencing error at site 26062 in sequence O17
+Mutation of site 26062 in sequence O23
+Coalescing sequences O23 and O2
+---->Recurrent mutation at site 28271 in sequence N3
+---->Recurrent mutation at site 20396 in sequence N6
+---->Recombination in sequence O23 after site 15095; prefix is new sequence 52
+Coalescing sequences O9 and 52
+Mutation of site 11296 in sequence O9
+Coalescing sequences O25 and O9
+Mutation of site 5388 in sequence O25
+Mutation of site 6954 in sequence O25
+Mutation of site 15096 in sequence O25
+Coalescing sequences O25 and O23
+Mutation of site 15279 in sequence O25
+Mutation of site 23063 in sequence O25
+Mutation of site 23709 in sequence O25
+Mutation of site 28977 in sequence O25
+---->Recombination in sequence N9 after site 21986; prefix is new sequence 53
+Coalescing sequences N3 and 53
+Mutation of site 6539 in sequence N3
+Mutation of site 20320 in sequence N3
+---->Recurrent mutation at site 22022 in sequence O5
+Coalescing sequences O5 and O3
+---->Recombination in sequence N1 after site 22916; suffix is new sequence 54
+Coalescing sequences N15 and 54
+Mutation of site 27874 in sequence N15
+Coalescing sequences N15 and N22
+Mutation of site 13019 in sequence N15
+---->Recombination in sequence O16 after site 28110; suffix is new sequence 55
+Coalescing sequences O1 and 55
+Coalescing sequences N1 and N9
+---->Recombination in sequence O25 after site 7123; prefix is new sequence 56
+Coalescing sequences O21 and 56
+Mutation of site 913 in sequence O21
+Mutation of site 3267 in sequence O21
+Mutation of site 5986 in sequence O21
+---->Recombination in sequence O16 after site 10028; prefix is new sequence 57
+Coalescing sequences O21 and 57
+---->Recurrent mutation at site 22022 in sequence O6
+---->Sequencing error at site 27638 in sequence O24
+---->Recombination in sequence O12 after site 27971; suffix is new sequence 58
+Coalescing sequences O5 and 58
+Mutation of site 28280 in sequence O5
+---->Recombination in sequence N1 after site 11200; suffix is new sequence 59
+---->Recombination in sequence 59 after site 15450; suffix is new sequence 60
+Coalescing sequences O1 and 59
+---->Recombination in sequence O24 after site 27738; suffix is new sequence 61
+Coalescing sequences O11 and 61
+---->Recombination in sequence N20 after site 21986; prefix is new sequence 62
+Coalescing sequences N3 and 62
+Mutation of site 12946 in sequence N3
+Mutation of site 20262 in sequence N3
+---->Recombination in sequence N3 after site 22021; suffix is new sequence 63
+Coalescing sequences 60 and 63
+Mutation of site 24745 in sequence 60
+Mutation of site 29427 in sequence 60
+Coalescing sequences 60 and N20
+Mutation of site 27739 in sequence 60
+---->Recombination in sequence O17 after site 28270; prefix is new sequence 64
+Coalescing sequences O13 and 64
+Mutation of site 26681 in sequence O13
+Coalescing sequences O1 and O17
+---->Recombination in sequence O13 after site 22021; prefix is new sequence 65
+Coalescing sequences O6 and 65
+Mutation of site 16852 in sequence O6
+Mutation of site 20401 in sequence O6
+Mutation of site 21846 in sequence O6
+---->Recombination in sequence N6 after site 17522; suffix is new sequence 66
+Coalescing sequences 60 and 66
+---->Recombination in sequence O16 after site 16175; prefix is new sequence 67
+Coalescing sequences O4 and 67
+---->Recombination in sequence O4 after site 27637; suffix is new sequence 68
+Coalescing sequences O24 and 68
+---->Recombination in sequence O12 after site 19304; prefix is new sequence 69
+Coalescing sequences O1 and 69
+---->Recombination in sequence O6 after site 20395; suffix is new sequence 70
+Coalescing sequences O1 and 70
+Coalescing sequences O6 and O12
+---->Recurrent mutation at site 22022 in sequence O1
+Coalescing sequences O1 and O5
+Mutation of site 7165 in sequence O1
+Mutation of site 19305 in sequence O1
+Mutation of site 24775 in sequence O1
+Mutation of site 27922 in sequence O1
+Coalescing sequences O1 and O6
+Mutation of site 3457 in sequence O1
+Mutation of site 4965 in sequence O1
+Mutation of site 11201 in sequence O1
+Mutation of site 17523 in sequence O1
+Mutation of site 20396 in sequence O1
+Mutation of site 24863 in sequence O1
+---->Recombination in sequence N12 after site 22021; suffix is new sequence 71
+Coalescing sequences N15 and 71
+Mutation of site 22227 in sequence N15
+Coalescing sequences N15 and 60
+Mutation of site 22995 in sequence N15
+Mutation of site 24410 in sequence N15
+Mutation of site 27752 in sequence N15
+Mutation of site 28461 in sequence N15
+---->Recombination in sequence N15 after site 23270; suffix is new sequence 72
+Coalescing sequences O13 and 72
+Mutation of site 28271 in sequence O13
+Coalescing sequences O1 and O13
+Mutation of site 22022 in sequence O1
+Coalescing sequences O1 and O11
+Mutation of site 23012 in sequence O1
+Mutation of site 27638 in sequence O1
+Mutation of site 29402 in sequence O1
+Coalescing sequences O1 and O24
+Mutation of site 21895 in sequence O1
+---->Recurrent mutation at site 9891 in sequence O4
+---->Recombination in sequence N3 after site 9890; prefix is new sequence 73
+Coalescing sequences N6 and 73
+Mutation of site 1191 in sequence N6
+Mutation of site 1267 in sequence N6
+---->Recurrent mutation at site 210 in sequence N1
+Coalescing sequences O21 and N1
+Mutation of site 7124 in sequence O21
+Mutation of site 10029 in sequence O21
+---->Recombination in sequence O16 after site 27971; suffix is new sequence 74
+Coalescing sequences O25 and 74
+Mutation of site 27972 in sequence O25
+Mutation of site 28048 in sequence O25
+---->Recombination in sequence N15 after site 21986; prefix is new sequence 75
+Coalescing sequences N12 and 75
+Mutation of site 11514 in sequence N12
+Coalescing sequences N12 and N3
+Mutation of site 9891 in sequence N12
+Mutation of site 11418 in sequence N12
+Mutation of site 15451 in sequence N12
+Mutation of site 16466 in sequence N12
+Mutation of site 21618 in sequence N12
+Coalescing sequences N12 and N6
+Mutation of site 5184 in sequence N12
+Coalescing sequences O1 and N12
+Mutation of site 210 in sequence O1
+Mutation of site 21987 in sequence O1
+Coalescing sequences O1 and N15
+Mutation of site 22917 in sequence O1
+---->Recombination in sequence O16 after site 23270; prefix is new sequence 76
+Coalescing sequences O25 and 76
+Mutation of site 16176 in sequence O25
+Coalescing sequences O1 and O16
+Coalescing sequences O21 and O25
+Mutation of site 14676 in sequence O21
+Mutation of site 23271 in sequence O21
+Mutation of site 24506 in sequence O21
+Mutation of site 24914 in sequence O21
+Mutation of site 25469 in sequence O1
+Mutation of site 28111 in sequence O21
+Coalescing sequences O1 and O4
+Coalescing sequences O1 and O21
+Mutation of site 241 in sequence O1
+Total: 2 sequencing errors, 9 recurrent mutations, 26 recombinations.
