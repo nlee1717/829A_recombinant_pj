@@ -1,7 +1,8 @@
 variant='SA'
-ref_seq=/mnt/c/Users/nklee/Desktop/kwargs/ref_seq.fasta
-multiR=/mnt/c/Users/nklee/Desktop/kwargs/SA_find_multiallelic.R
-cd /mnt/c/Users/nklee/Desktop/kwargs/$variant
+ref_seq=/main/dir/ref_seq.fasta
+multiR=/main/dir/SA_find_multiallelic.R
+cd /main/dir/$variant
+# there should be separate folders for each variants in the /main/dir 
 echo $'\n##### Running pipeline for '$variant$'#####\n\n'
 
 # head -10 $variant'_data.fasta'
